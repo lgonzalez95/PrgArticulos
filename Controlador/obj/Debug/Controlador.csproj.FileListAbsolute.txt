@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\Controlador.dll
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\clsConexionSQL.dll
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bin\Debug\clsConexionSQL.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.dll
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.pdb

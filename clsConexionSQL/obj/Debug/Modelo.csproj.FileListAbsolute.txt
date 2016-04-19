@@ -1,0 +1,4 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\clsConexionSQL\bin\Debug\clsConexionSQL.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\clsConexionSQL\bin\Debug\clsConexionSQL.pdb
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\clsConexionSQL\obj\Debug\clsConexionSQL.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\clsConexionSQL\obj\Debug\clsConexionSQL.pdb
